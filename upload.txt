@@ -1,3 +1,2 @@
 ver.B
-ver.C
-ver.D
+ver.C2
